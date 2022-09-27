@@ -74,6 +74,7 @@ public class HitungNA {
                         System.out.println("NA : E");
                         System.out.println("INA = 0");
                 }
+                System.out.println("Hello");
                 scn.close();
         }
 }
